@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>ui/app.qml</file>
+        <file>ui/FeatureIconButton.qml</file>
+        <file>ui/PassengerInfo.qml</file>
+        <file>ui/ElevatorInfo.qml</file>
+        <file>ui/FlatButton.qml</file>
+        <file>ui/SettingView.qml</file>
+        <file>ui/SimulatorView.qml</file>
+        <file>ui/OptionButton.qml</file>
+        <file>ui/BottomBar.qml</file>
+        <file>ui/TopBar.qml</file>
+        <file>ui/FeatureProgressBar.qml</file>
+        <file>ui/FeatureSpinBox.qml</file>
+        <file>ui/FeatureRadioButton.qml</file>
+        <file>ui/SettingBasic.qml</file>
+        <file>ui/SettingType.qml</file>
+        <file>ui/ResultView.qml</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>app_icon.ico</file>
+        <file>ico.rc</file>
+    </qresource>
+</RCC>

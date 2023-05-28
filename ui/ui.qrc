@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/passenger.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/end.png</file>
+        <file>icons/clock.png</file>
+        <file>icons/down-square.png</file>
+        <file>icons/up-square.png</file>
+        <file>icons/clock-small.png</file>
+        <file>icons/elevator-taking.png</file>
+        <file>icons/up.png</file>
+        <file>icons/down.png</file>
+        <file>icons/dots.png</file>
+        <file>icons/close.png</file>
+        <file>icons/maxmize.png</file>
+        <file>icons/minimize.png</file>
+        <file>icons/app_icon.png</file>
+        <file>icons/monitor_el.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/monitor_passenger.png</file>
+        <file>icons/process_setting.png</file>
+        <file>icons/simulator.png</file>
+        <file>icons/monitor_el_gray.png</file>
+        <file>icons/monitor_passenger_gray.png</file>
+        <file>icons/process_setting_gray.png</file>
+        <file>icons/setting_gray.png</file>
+        <file>icons/simulator_gray.png</file>
+        <file>icons/error.png</file>
+        <file>icons/feedback.png</file>
+        <file>icons/msg.png</file>
+        <file>icons/remote.png</file>
+        <file>icons/warning.png</file>
+        <file>icons/done.png</file>
+        <file>icons/up-small.png</file>
+        <file>icons/down-small.png</file>
+        <file>icons/clock-white.png</file>
+        <file>icons/clock-light.png</file>
+        <file>icons/stop-light.png</file>
+        <file>icons/indicator_down.png</file>
+        <file>icons/indicator_up.png</file>
+        <file>icons/camera1.png</file>
+        <file>icons/camera2.png</file>
+        <file>icons/camera3.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>elevator_view.js</file>
+        <file>three.js</file>
+        <file>tween.js</file>
+        <file>tween.min.js</file>
+        <file>consolas.typeface.js</file>
+        <file>gl-matrix.js</file>
+        <file>ThreeJSLoader.js</file>
+        <file>OrbitControls.js</file>
+    </qresource>
+</RCC>
